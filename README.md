@@ -1,0 +1,2 @@
+# hosts
+DNS Blocklists
