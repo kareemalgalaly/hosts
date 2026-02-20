@@ -1,0 +1,21 @@
+# Author: Kareem Ahmad
+# Custom hosts file for dns level ad/tracker/etc blocking
+# Add an entry starting with 0.0.0.0 to block a domain/subdomain
+
+# Ads 
+0.0.0.0 lubzenom.com
+0.0.0.0 pubrev.io
+0.0.0.0 pubadx.one
+0.0.0.0 afcdn.net
+
+# Spam 
+0.0.0.0 phone-protection.pro
+0.0.0.0 yb27b.com
+0.0.0.0 strong-super.website
+
+# Annoying Shops 
+0.0.0.0 temu.com
+  
+# AI Slop 
+0.0.0.0 toffee.ai
+0.0.0.0 wsup.ai
