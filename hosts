@@ -1,6 +1,11 @@
 # Author: Kareem Ahmad
 # Custom hosts file for dns level ad/tracker/etc blocking
-# Add an entry starting with 0.0.0.0 to block a domain/subdomain
+#
+# This file is part of this repo: https://github.com/kareemalgalaly/hosts
+# The latest version of this file can be found here: 
+# https://raw.githubusercontent.com/kareemalgalaly/hosts/refs/heads/main/hosts
+#
+# To block a domain/subdomain, add an entry starting with 0.0.0.0
 
 # Ads 
 0.0.0.0 lubzenom.com
