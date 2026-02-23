@@ -1,0 +1,9 @@
+# Author: Kareem Ahmad
+# Custom allowlist file for dns level ad/tracker/etc blocking
+#
+# This file is part of this repo: https://github.com/kareemalgalaly/hosts
+# The latest version of this file can be found here: 
+# https://raw.githubusercontent.com/kareemalgalaly/hosts/refs/heads/main/allowlist
+
+# Unsubscribe emails
+e.customeriomail.com
