@@ -10,8 +10,18 @@
 # Ads 
 0.0.0.0 lubzenom.com
 0.0.0.0 pubrev.io
-0.0.0.0 pubadx.one
+0.0.0.0 pubadx.one source.pubadx.one platform.pubadx.one demand.pubadx.one 
+0.0.0.0 imp9.pubadx.one imp-dsp.pubadx.one pixel-dsp.pubadx.one
+0.0.0.0 cdn.pubfuture-ad.com usr.pubtrk.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 cm.adskeeper.com cdn.adskeeper.com clkc.adskeeper.com s-img.adskeeper.com
+0.0.0.0 ad.a-ads.com static.a-ads.com
+0.0.0.0 a.magsrv.com s.magsrv.com
+0.0.0.0 static.bookmsg.com
 0.0.0.0 afcdn.net
+
+# Tracking
+0.0.0.0 connect.facebook.net
 
 # Spam 
 0.0.0.0 phone-protection.pro
